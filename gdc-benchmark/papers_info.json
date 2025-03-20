@@ -1,0 +1,72 @@
+{
+    "Clark.csv": {
+        "First Author": "Clark, D.J.",
+        "Paper Title": "Integrated Proteogenomic Characterization of Clear Cell Renal Cell Carcinoma",
+        "Paper URL": "https://www.sciencedirect.com/science/article/pii/S0092867419311237",
+        "Dataset URL": "https://ars.els-cdn.com/content/image/1-s2.0-S0092867419311237-mmc1.xlsx",
+        "Sheet Name": "ccrcc_clinical_characteristics"
+    },
+    "Krug.csv": {
+        "First Author": "Krug, K.",
+        "Paper Title": "Proteogenomic Landscape of Breast Cancer Tumorigenesis and Targeted Therapy",
+        "Paper URL": "https://www.sciencedirect.com/science/article/pii/S0092867420314008",
+        "Dataset URL": "https://ars.els-cdn.com/content/image/1-s2.0-S0092867420314008-mmc1.xlsx",
+        "Sheet Name": "A) Metadata"
+    },
+    "Vasaikar.csv": {
+        "First Author": "Vasaikar, S.",
+        "Paper Title": "Proteogenomic Analysis of Human Colon Cancer Reveals New Therapeutic Opportunities",
+        "Paper URL": "https://www.sciencedirect.com/science/article/pii/S0092867419302922",
+        "Dataset URL": "https://ars.els-cdn.com/content/image/1-s2.0-S0092867419302922-mmc1.xlsx",
+        "Sheet Name": "B-ClinicalData"
+    },
+    "Wang.csv": {
+        "First Author": "Wang, L.-B.",
+        "Paper Title": "Proteogenomic and metabolomic characterization of human glioblastoma",
+        "Paper URL": "https://www.sciencedirect.com/science/article/pii/S1535610821000507",
+        "Dataset URL": "https://ars.els-cdn.com/content/image/1-s2.0-S1535610821000507-mmc2.xlsx",
+        "Sheet Name": "clinical_data"
+    },
+    "Huang.csv": {
+        "First Author": "Huang, C.",
+        "Paper Title": "Proteogenomic insights into the biology and treatment of HPV-negative head and neck squamous cell carcinoma",
+        "Paper URL": "https://www.sciencedirect.com/science/article/pii/S1535610820306553",
+        "Dataset URL": "https://ars.els-cdn.com/content/image/1-s2.0-S1535610820306553-mmc2.xlsx",
+        "Sheet Name": "Meta table"
+    },
+    "Satpathy.csv": {
+        "First Author": "Satpathy, S.",
+        "Paper Title": "A proteogenomic portrait of lung squamous cell carcinoma",
+        "Paper URL": "https://www.sciencedirect.com/science/article/pii/S0092867421008576",
+        "Dataset URL": "https://ars.els-cdn.com/content/image/1-s2.0-S0092867421008576-mmc1.xlsx",
+        "Sheet Name": "Table S1A"
+    },
+    "Gillette.csv": {
+        "First Author": "Gillette, M.A.",
+        "Paper Title": "Proteogenomic Characterization Reveals Therapeutic Vulnerabilities in Lung Adenocarcinoma",
+        "Paper URL": "https://www.sciencedirect.com/science/article/pii/S0092867420307443",
+        "Dataset URL": "https://ars.els-cdn.com/content/image/1-s2.0-S0092867420307443-mmc1.xlsx",
+        "Sheet Name": "Annotions_S1A"
+    },
+    "McDermott.csv": {
+        "First Author": "McDermott, J.E.",
+        "Paper Title": "Proteogenomic Characterization of Ovarian HGSC Implicates Mitotic Kinases, Replication Stress in Observed Chromosomal Instability",
+        "Paper URL": "https://www.sciencedirect.com/science/article/pii/S2666379120300045",
+        "Dataset URL": "https://ars.els-cdn.com/content/image/1-s2.0-S2666379120300045-mmc2.xlsx",
+        "Sheet Name": "BaselineClinicalData"
+    },
+    "Cao.csv": {
+        "First Author": "Cao, L.",
+        "Paper Title": "Proteogenomic characterization of pancreatic ductal adenocarcinoma",
+        "Paper URL": "https://www.sciencedirect.com/science/article/pii/S0092867421009971",
+        "Dataset URL": "https://ars.els-cdn.com/content/image/1-s2.0-S0092867421009971-mmc1.xlsx",
+        "Sheet Name": "Clinical_data"
+    },
+    "Dou.csv": {
+        "First Author": "Dou, Y.",
+        "Paper Title": "Proteogenomic Characterization of Endometrial Carcinoma",
+        "Paper URL": "https://www.sciencedirect.com/science/article/pii/S0092867420301070",
+        "Dataset URL": "https://ars.els-cdn.com/content/image/1-s2.0-S0092867420301070-mmc1.xlsx",
+        "Sheet Name": "UCEC_CPTAC3_meta_table_V2.1"
+    }
+}
