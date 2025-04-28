@@ -1,0 +1,11 @@
+original_paper_variable_names,GDC_format_variable_names
+Tumor.Stage,ajcc_pathologic_stage
+Tumor.Stage,uicc_pathologic_stage
+Ischemia.Time.in.Minutes,time_between_clamping_and_freezing
+Ischemia.Time.in.Minutes,time_between_excision_and_freezing
+Age.in.Month,age_at_diagnosis
+Age.in.Month,age_at_index
+Age.in.Month,days_to_birth
+Gender,gender
+Ethnicity,ethnicity
+Ethnicity,race
