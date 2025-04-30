@@ -1,6 +1,7 @@
-# GDC dataset downloading script
+# GDC-SM dataset downloading script
 
-This script downloads Excel files from specified URLs, extracts data from specific sheets, and converts them to CSV format. 
+This directory provides a script to reconstruct the GDC-SM benchmark files. It downloads the original Excel files from specified URLs, extracts data from specific sheets, and converts them to the CSV format used in the benchmark. 
+For more details on the GDC-SM benchmark, see: https://zenodo.org/records/14963588
 
 ## Requirements
 
