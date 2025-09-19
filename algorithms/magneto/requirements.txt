@@ -8,3 +8,5 @@ mmh3
 scikit-learn
 sentence_transformers
 tiktoken
+json_repair
+litellm
