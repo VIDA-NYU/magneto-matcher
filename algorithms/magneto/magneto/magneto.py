@@ -29,6 +29,7 @@ class Magneto:
     DEFAULT_PARAMS = {
         "embedding_model": "mpnet",
         "llm_model": "gpt-4o-mini",
+        "llm_model_kwargs": {},
         "encoding_mode": "header_values_verbose",
         "sampling_mode": "mixed",
         "sampling_size": 10,
@@ -137,7 +138,10 @@ class Magneto:
         source_table = source_table.get_df()
         target_table = target_table.get_df()
 
-        reranker = LLMReranker(llm_model=self.params["llm_model"])
+        reranker = LLMReranker(
+            llm_model=self.params["llm_model"],
+            **self.params.get("llm_model_kwargs", {})
+        )
 
         source_values = {
             col: get_samples(source_table[col], 10) for col in source_table.columns
@@ -260,7 +264,7 @@ class Magneto:
                 )
 
             if self.params["use_gpt_reranker"]:
-                print("Applying GPT reranker")
+                print("Applying LLM reranker")
                 matches = self.call_llm_reranker(source_table, target_table, matches)
                 matches = convert_to_valentine_format(
                     matches, source_table.name, target_table.name
