@@ -93,7 +93,7 @@ where `[MODE]` is similar to the GDC benchmark and `[DATASET]` can be one of the
 - `tpc`
 - `wikidata`
 
-You can also change other Mageto configurations in the corresponding benchmark file.
+You can also change other Magneto configurations in the corresponding benchmark file.
 
 ## Citation
 
