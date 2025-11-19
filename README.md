@@ -1,5 +1,4 @@
-<h2 align="center">Magneto: Combining Small and Large Language Models for
-Schema Matching</h2>
+<h2 align="center">Magneto: Combining Small and Large Language Models<br>for Schema Matching</h2>
 
 > Welcome to Magneto 🧲
 
