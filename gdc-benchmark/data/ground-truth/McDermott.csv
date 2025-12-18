@@ -1,0 +1,22 @@
+original_paper_variable_names,GDC_format_variable_names
+Age in Months at Time of Tissue Procurement,age_at_diagnosis
+Age in Months at Time of Tissue Procurement,days_to_birth
+Age in Months at Time of Tissue Procurement,age_at_index
+Gender,gender
+Race,race
+Ethnicity,ethnicity
+Site of Disease,tissue_or_organ_of_origin
+Site of Disease,primary_site
+Anatomic site of Tumor Specimen,site_of_resection_or_biopsy
+Anatomic site of Tumor Specimen,biospecimen_anatomic_site
+Anatomic Lateral Position of Tumor Specimen,biospecimen_laterality
+Anatomic Lateral Position of Tumor Specimen,laterality
+Histological Subtype,primary_diagnosis
+Histological Subtype,disease_type
+Method of Initial Pathologic Diagnosis,method_of_diagnosis
+Tumor Stage (Pathological) Ovary FIGO Staging System,figo_stage
+Tumor Grade,tumor_grade
+Tumor Residual Disease (for the max diameter of the largest remaining tumor nodule),residual_tumor_measurement
+History of Other Malignancy?,prior_malignancy
+Ischemia Time for Tumor Tissue,time_between_clamping_and_freezing
+Ischemia Time for Tumor Tissue,time_between_excision_and_freezing
